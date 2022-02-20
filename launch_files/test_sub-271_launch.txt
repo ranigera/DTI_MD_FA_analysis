@@ -1,0 +1,2 @@
+fslmaths /export2/DATA/HIS/HIS_server/analysis/dwi_data/preproc/sub-271/topup_sub-271_AP_PA_before_b0s_iout -Tmean /export2/DATA/HIS/HIS_server/analysis/dwi_data/preproc/sub-271/topup_sub-271_AP_PA_before_b0s_iout_avg
+fslmaths /export2/DATA/HIS/HIS_server/analysis/dwi_data/preproc/sub-271/topup_sub-271_AP_PA_after_b0s_iout -Tmean /export2/DATA/HIS/HIS_server/analysis/dwi_data/preproc/sub-271/topup_sub-271_AP_PA_after_b0s_iout_avg
